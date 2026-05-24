@@ -1,0 +1,19 @@
+body{
+    background: black;
+    color: white;
+}
+h1{
+    color: yellow;
+}
+#main-p{
+    color: pink;
+}
+.para1,.para2{
+    color: aqua;
+}
+#h11{
+    color: violet;
+} 
+.h1{
+    color: blue;
+} 
